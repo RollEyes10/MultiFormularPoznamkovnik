@@ -36,11 +36,6 @@ Projekt obsahuje následující hlavní soubory:
 
 ---
 
-## 📸 Ukázka (doporučeno)
-> Můžeš sem později přidat screenshot aplikace.
-
----
-
 ## 💡 Možná vylepšení
 - Přidat vyhledávání v poznámkách  
 - Možnost kategorie/štítků pro poznámky  
